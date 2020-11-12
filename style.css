@@ -3,7 +3,12 @@
 /* pixcontainer */
 /* footer container */
 
-
+.topcontainer{
+    background-image: url(https://picsum.photos/id/1022/200/300);
+    opacity: 0.2;
+    width: 60%;
+    height: 40%;
+}
 
 
 @media (min-width:500px){
